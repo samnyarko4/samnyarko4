@@ -28,7 +28,8 @@ I'm a passionate and detail-oriented Web Developer with a focus on creating inte
 
 ### Interactive Media Design** - Algonquin College 
 #### Awards
-  - Dean's Honours List for the last two semesters
+  ##### Dean's Honours List - Algonquin College – Jan 2023
+    - The Dean's Honours List recognizes students who have demonstrated academic excellence by maintaining a grade point average of at least 3.60. My GPA for this term was 3.86.
   - GPA consistently between 3.60 and 4.00, with no grade below C-
 
 ## 🌐 Connect with Me
