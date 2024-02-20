@@ -26,11 +26,14 @@ I'm a passionate and detail-oriented Web Developer with a focus on creating inte
 
 ## 📚 Education
 
-### Interactive Media Design** - Algonquin College 
+### Algonquin College - Multimedia Design Diploma, Class of 2024 
 #### Awards
-  ##### Dean's Honours List - Algonquin College – Jan 2023
-    - The Dean's Honours List recognizes students who have demonstrated academic excellence by maintaining a grade point average of at least 3.60. My GPA for this term was 3.86.
-  - GPA consistently between 3.60 and 4.00, with no grade below C-
+  ##### Dean's Honours List - Algonquin College – Jan 2023 
+  - The Dean's Honours List recognizes students who have demonstrated academic excellence by maintaining a grade point average of at least 3.60. My GPA for this term was 3.86.
+
+  ##### Dean's Honours List - Algonquin College – May 2023
+  - The Dean's Honours List recognizes students who have demonstrated academic excellence by maintaining a grade point average of at least 3.60. My GPA for this term was 3.78.
+
 
 ## 🌐 Connect with Me
 
