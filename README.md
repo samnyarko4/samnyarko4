@@ -27,6 +27,7 @@ I'm a passionate and detail-oriented Web Developer with a focus on creating inte
 ## 📚 Education
 
 ### Interactive Media Design** - Algonquin College 
+#### Awards
   - Dean's Honours List for the last two semesters
   - GPA consistently between 3.60 and 4.00, with no grade below C-
 
