@@ -12,7 +12,7 @@ I'm a passionate and detail-oriented Web Developer with a focus on creating inte
 
 ## 🚀 Projects
 
-### [Pokemon Dex](Link to your project repository)
+### PokeDex (Link to your project repository)
 - An interactive Pokedex showcasing information about Pokemon.
 - Technologies used: HTML, CSS, JavaScript
 
@@ -20,7 +20,7 @@ I'm a passionate and detail-oriented Web Developer with a focus on creating inte
 
 ## 🔭 I’m currently working on
 
-  ### [NBA Statistics Dashboard](Link to your project repository)
+  ### NBA Statistics Dashboard (Link to your project repository)
 - A dynamic web application displaying live and historical statistics for any NBA player.
 - Technologies used: React, JavaScript, CSS
 
@@ -37,8 +37,10 @@ I'm a passionate and detail-oriented Web Developer with a focus on creating inte
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](Your LinkedIn Profile URL)
-- [Portfolio Website](Your Portfolio URL)
+### LinkedIn
+- Your LinkedIn Profile URL
+### Portfolio Website
+- (Coming Soon...)
 
 ## 📈 GitHub Stats
 
