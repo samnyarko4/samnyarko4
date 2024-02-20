@@ -18,7 +18,7 @@ I'm a passionate and detail-oriented Web Developer with a focus on creating inte
 
   
 
-##🔭 I’m currently working on
+## 🔭 I’m currently working on
 
   ### [NBA Statistics Dashboard](Link to your project repository)
 - A dynamic web application displaying live and historical statistics for any NBA player.
@@ -26,7 +26,7 @@ I'm a passionate and detail-oriented Web Developer with a focus on creating inte
 
 ## 📚 Education
 
-- **Interactive Media Design** - Algonquin College 
+### Interactive Media Design** - Algonquin College 
   - Dean's Honours List for the last two semesters
   - GPA consistently between 3.60 and 4.00, with no grade below C-
 
