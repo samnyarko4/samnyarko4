@@ -12,7 +12,7 @@ I'm a passionate and detail-oriented Web Developer with a focus on creating inte
 
 ## 🚀 Projects
 
-### PokeDex (Link to your project repository)
+### PokeDex [https://samnyarko4.github.io/pokedex/]
 - An interactive Pokedex showcasing information about Pokemon.
 - Technologies used: HTML, CSS, JavaScript
 
