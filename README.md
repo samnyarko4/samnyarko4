@@ -20,7 +20,7 @@ I'm a passionate and detail-oriented Web Developer with a focus on creating inte
 
 ## 🔭 I’m currently working on
 
-  ### NBA Statistics Dashboard (Link to your project repository)
+  ### NBA Statistics Dashboard (Coming Soon...)
 - A dynamic web application displaying live and historical statistics for any NBA player.
 - Technologies used: React, JavaScript, CSS
 
